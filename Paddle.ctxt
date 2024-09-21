@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ The\ game\ paddle.\ It\ is\ keyboard\ controlled\ (left,\ right,\ space).\ It\ also\ \r\n\ generates\ a\ new\ ball\ when\ it\ is\ created\ itself.\r\n\ \r\n\ @author\ mik\r\n\ @version\ 1.0\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ When\ the\ paddle\ gets\ created,\ create\ a\ ball\ as\ well.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=dist
+comment3.target=void\ move(int)
+comment4.params=
+comment4.target=void\ newBall()
+numComments=5
